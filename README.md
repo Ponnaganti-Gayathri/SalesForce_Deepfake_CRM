@@ -111,7 +111,7 @@ Integration Patterns (Design Only)
 -	CDC
 -	Salesforce Connect
 ________________________________________
-🚀 How to Use This Repository
+# 🚀 How to Use This Repository
 1.	Open each Phase PDF to follow the project lifecycle step-by-step.
 2.	Use the documentation to configure:
 -	Data Model
